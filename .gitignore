@@ -1,0 +1,7 @@
+/build
+.env
+script.js
+token-abi.json
+TokenFlattened.sol
+/node_modules
+/contracts/MyNFT.sol
